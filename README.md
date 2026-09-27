@@ -1,6 +1,6 @@
-# HR Analytics Dashboard – PixelAI Studio
+# HR Analytics Dashboard - PixelAI Studio
 
-Power BI project based on HR data from a fictional company – **PixelAI Studio**.
+Power BI project based on HR data from a fictional company - **PixelAI Studio**.
 
 The project covers the complete data analysis workflow, from data cleaning and transformation to data modelling, DAX calculations and interactive dashboard development.
 
