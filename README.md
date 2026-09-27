@@ -79,7 +79,7 @@ The dashboard makes it possible to identify:
 ![Monthly Report](https://github.com/Kamil-Szcz/HR-Analytics-Power-BI/blob/main/Monthly%20report.jpg)
 
 ### Decomposition Tree
-![Decomposition Tree]([images/decomposition-tree.png](https://github.com/Kamil-Szcz/HR-Analytics-Power-BI/blob/main/Decomposition%20tree.jpg)
+![Decomposition Tree](https://github.com/Kamil-Szcz/HR-Analytics-Power-BI/blob/main/Decomposition%20tree.jpg)
 
 ### Quarterly Report
 ![Quarterly Report](https://github.com/Kamil-Szcz/HR-Analytics-Power-BI/blob/main/Quarterly%20report.jpg)
