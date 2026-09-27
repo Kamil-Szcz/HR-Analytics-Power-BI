@@ -76,7 +76,7 @@ The dashboard makes it possible to identify:
 ## Dashboard Preview
 
 ### Monthly Report
-![Monthly Report]()
+![Monthly Report](https://github.com/Kamil-Szcz/HR-Analytics-Power-BI/blob/main/Monthly%20report.jpg)
 
 ### Decomposition Tree
 ![Decomposition Tree](images/decomposition-tree.png)
