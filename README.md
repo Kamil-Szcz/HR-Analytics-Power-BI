@@ -76,13 +76,13 @@ The dashboard makes it possible to identify:
 ## Dashboard Preview
 
 ### Monthly Report
-![Monthly Report](images/monthly-report.png)
+![Monthly Report]()
 
 ### Decomposition Tree
 ![Decomposition Tree](images/decomposition-tree.png)
 
 ### Quarterly Report
-![Quarterly Report](images/quarterly-report.png)
+![Quarterly Report](https://github.com/Kamil-Szcz/HR-Analytics-Power-BI/blob/main/Quarterly%20report.jpg)
 
 ## 💡 Skills Demonstrated
 
